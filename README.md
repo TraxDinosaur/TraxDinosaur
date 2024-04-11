@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://telegram.me/rexnetwork)
+[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://telegram.me/acciotraxdinosaur)
 <h1 align="center">Hi 👋, I'm TraxDinosaur</h1>
 <h3 align="center">A newbie passionate python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,21 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traxdinosaur&label=Profile%20views&color=0e75b6&style=flat" alt="traxdinosaur" /> </p>
 
-- 🔭 I’m currently working on [Secret](https://telegram.me/rexnetwork)
+- 🔭 I’m currently working on [Secret](https://telegram.me/acciotraxdinosaur)
 
 - 🌱 I’m currently learning **Courses**
 
-- 👯 I’m looking to collaborate on [OnlineChat](https://telegram.me/rexnetwork)
+- 👯 I’m looking to collaborate on [OnlineChat](https://telegram.me/acciotraxdinosaur)
 
-- 🤝 I’m looking for help with [OnlineChat](https://telegram.me/rexnetwork)
+- 🤝 I’m looking for help with [OnlineChat](https://telegram.me/acciotraxdinosaur)
 
-- 👨‍💻 All of my projects are available at [https://telegram.me/rexnetwork](https://telegram.me/rexnetwork)
+- 👨‍💻 All of my projects are available at [https://telegram.me/rexnetwork](https://telegram.me/acciotraxdinosaur)
 
-- 📝 I regularly write articles on [https://telegram.me/rexnetwork](https://telegram.me/rexnetwork)
+- 📝 I regularly write articles on [https://telegram.me/rexnetwork](https://telegram.me/acciotraxdinosaur)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **https://rb.gy/rdz89r**
+- 📫 How to reach me **https://traxdinosaur.github.io**
 
 - 📄 Know about my experiences [https://telegram.me/rexnetwork](https://telegram.me/rexnetwork)
 
