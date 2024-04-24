@@ -1,41 +1,62 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://telegram.me/acciotraxdinosaur)
-<h1 align="center">Hi 👋, I'm TraxDinosaur</h1>
-<h3 align="center">A newbie passionate python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Title -->
+<h1 align="center">👋 Hello! I'm TraxDinosaur 🦖🔮</h1>
 
+<!-- Intro -->
+<p align="center">A passionate Python developer with a wizarding twist ✨</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traxdinosaur&label=Profile%20views&color=0e75b6&style=flat" alt="traxdinosaur" /> </p>
-
-- 🔭 I’m currently working on [Secret](https://telegram.me/acciotraxdinosaur)
-
-- 🌱 I’m currently learning **Courses**
-
-- 👯 I’m looking to collaborate on [OnlineChat](https://telegram.me/acciotraxdinosaur)
-
-- 🤝 I’m looking for help with [OnlineChat](https://telegram.me/acciotraxdinosaur)
-
-- 👨‍💻 All of my projects are available at [https://telegram.me/rexnetwork](https://telegram.me/acciotraxdinosaur)
-
-- 📝 I regularly write articles on [https://telegram.me/rexnetwork](https://telegram.me/acciotraxdinosaur)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **https://traxdinosaur.github.io**
-
-- 📄 Know about my experiences [https://telegram.me/rexnetwork](https://telegram.me/rexnetwork)
-
-- ⚡ Fun fact **I can't crack Jokes!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Connect with me -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://github.com/TraxDinosaur"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://replit.com/@TraxDinosaur"><img src="https://img.shields.io/badge/-Replit-333333?style=flat-square&logo=Replit&logoColor=white" alt="Replit"></a>
+  <a href="https://www.instagram.com/TraxDinosaur/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/TraxDinosaur"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://TraxDinosaur.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white" alt="Blogger"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<!-- Website -->
+<p align="center">
+  <a href="https://traxdinosaur.github.io">
+    <img src="https://img.shields.io/badge/Website-traxdinosaur.github.io-1abc9c?style=flat-square&logoColor=white&color=1abc9c" alt="Website">
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=traxdinosaur&show_icons=true&locale=en&layout=compact" alt="traxdinosaur" /></p>
+<!-- About Me -->
+<h3 align="center">About Me:</h3>
+<p align="center">Welcome to my digital haven where I blend my love for Python programming with the enchanting vibes of the Wizarding World! 🐍⚡</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traxdinosaur&show_icons=true&locale=en" alt="traxdinosaur" /></p>
+<!-- Current Projects -->
+<h3 align="center">Current Projects:</h3>
+<ul align="center">
+  <li>🔭 Working on: <a href="https://telegram.me/acciotraxdinosaur">Secret</a></li>
+  <li>🌱 Learning: Courses</li>
+  <li>👯 Looking to collaborate on: <a href="https://telegram.me/acciotraxdinosaur">OnlineChat</a></li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=traxdinosaur&" alt="traxdinosaur" /></p>
+<!-- Languages and Tools -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tiangolo/fastapi/fastapi-icon.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+</p>
 
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traxdinosaur&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=traxdinosaur&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=traxdinosaur" alt="GitHub Streak" />
+</p>
+
+<!-- Footer -->
+<p align="center">⚡ Fun fact: I can't crack jokes, but I sure can code spells! 🧙‍♂️✨</p>
