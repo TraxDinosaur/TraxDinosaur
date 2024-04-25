@@ -10,8 +10,8 @@
   <a href="https://github.com/TraxDinosaur"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
   <a href="https://replit.com/@TraxDinosaur"><img src="https://img.shields.io/badge/-Replit-333333?style=flat-square&logo=Replit&logoColor=white" alt="Replit"></a>
   <a href="https://www.instagram.com/TraxDinosaur/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/TraxDinosaur"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-  <a href="https://TraxDinosaur.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white" alt="Blogger"></a>
+  <a href="https://www.youtube.com/@TraxDinosaur"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://TraxDinosaurs.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white" alt="Blogger"></a>
 </p>
 
 <!-- Website -->
