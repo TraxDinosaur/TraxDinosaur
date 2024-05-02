@@ -18,6 +18,7 @@
 <p align="center">
   <a href="https://traxdinosaur.github.io">
     <img src="https://img.shields.io/badge/Website-traxdinosaur.github.io-1abc9c?style=flat-square&logoColor=white&color=1abc9c" alt="Website">
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=traxdinosaur&label=Profile%20views&color=0e75b6&style=flat" alt="traxdinosaur" /> </p>
   </a>
 </p>
 
