@@ -29,8 +29,8 @@
 <!-- Current Projects -->
 <h3 align="center">Current Projects:</h3>
 <ul align="center">
-  <li>🔭 Working on: <a href="">Cant Say RN</a></li>
-  <li>🌱 Learning: Courses</li>
+  <li>🔭 Working on: <a href="">A Fully Automated Earning System</a></li>
+  <li>🌱 Learning: Web Developement</li>
   <li>👯 Looking to collaborate on: <a href="https://github.com/TraxDinosaur/MysticWizardBot">MysticWizardBot</a></li>
 </ul>
 
